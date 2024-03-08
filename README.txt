@@ -2,7 +2,9 @@ Aleks Lisutta
 Bar Kyzer 
 Muhamad Orabi 
 
-
+Distributed OCR System for Image Processing
+Introduction
+The Distributed OCR System is engineered to efficiently process vast amounts of image data, extracting textual information through optical character recognition (OCR) technology. Utilizing a distributed computing approach across AWS cloud infrastructure, this system is built for scalability, robustness, and high throughput, making it an ideal solution for projects requiring rapid processing of image-based data into searchable and editable text.
 
 AMI: ami-0b0dcb5067f052a63
 instance type: micro
